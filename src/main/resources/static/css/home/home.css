@@ -1,0 +1,4 @@
+section {
+    width: clamp(300px, 95%, 1120px);
+    margin: 1rem auto;
+}
